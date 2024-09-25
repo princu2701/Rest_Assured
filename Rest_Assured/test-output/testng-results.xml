@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-09T15:03:18 IST" name="Default suite" finished-at="2024-09-09T15:03:24 IST" duration-ms="6066">
+    <groups>
+    </groups>
+    <test started-at="2024-09-09T15:03:18 IST" name="Default test" finished-at="2024-09-09T15:03:24 IST" duration-ms="6066">
+      <class name="Evaluations.Eva1">
+        <test-method signature="addahook()[pri:0, instance:Evaluations.Eva1@4c1909a3]" started-at="2024-09-09T15:03:18 IST" name="addahook" finished-at="2024-09-09T15:03:24 IST" duration-ms="5963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addahook -->
+      </class> <!-- Evaluations.Eva1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
